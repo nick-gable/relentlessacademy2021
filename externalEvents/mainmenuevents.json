@@ -2,54 +2,5 @@
   "associatedLayout": "MainMenu",
   "lastChangeTimeStamp": 0,
   "name": "MainMenuEvents",
-  "events": [
-    {
-      "disabled": false,
-      "folded": false,
-      "type": "BuiltinCommonInstructions::Comment",
-      "color": {
-        "b": 109,
-        "g": 230,
-        "r": 255,
-        "textB": 0,
-        "textG": 0,
-        "textR": 0
-      },
-      "comment": "ALL event sheets should begin with this. This is to ensure that people can work on the layout of the scene while others are working on the objects.",
-      "comment2": ""
-    },
-    {
-      "disabled": false,
-      "folded": false,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": false,
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ],
-          "subInstructions": []
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "inverted": false,
-            "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
-          },
-          "parameters": [
-            "",
-            "\"MainMenuLayout\"",
-            "0",
-            "0"
-          ],
-          "subInstructions": []
-        }
-      ],
-      "events": []
-    }
-  ]
+  "events": []
 }

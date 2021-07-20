@@ -42,7 +42,7 @@
         "textG": 0,
         "textR": 0
       },
-      "comment": "This should be the ONLY event on the MainMenu default events sheet (this sheet). ALL game events should be put on the scenes external layout with the same name.",
+      "comment": "This should be the ONLY event on the MainMenu default events sheet (this sheet). ALL game events should be put on the scenes external event sheet with the same name.",
       "comment2": ""
     },
     {

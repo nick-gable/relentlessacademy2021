@@ -56,11 +56,6 @@
     }
   ],
   "eventsFunctionsExtensions": [],
-  "externalLayouts": [
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/mainmenulayout"
-    }
-  ],
+  "externalLayouts": [],
   "externalSourceFiles": []
 }
