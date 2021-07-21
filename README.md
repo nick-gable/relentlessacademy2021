@@ -4,5 +4,3 @@ This is the class repository for the game project being developed as a class by 
 Developed using GDevelop: https://gdevelop-app.com
 
 (This is a work in progress, more documentation may follow)
-
-Test edit 1
